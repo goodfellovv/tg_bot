@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Токен бота полученный у BotFather
-bot = telebot.TeleBot("")
+bot = telebot.TeleBot("6210431557:AAGUZeCcyR6g_fdotncaIJHPGSchzkEFibE")
 
 # Хранит количество правильных ответов 
 # для каждого чата т.к как пользователей может быть несколько одновременно
